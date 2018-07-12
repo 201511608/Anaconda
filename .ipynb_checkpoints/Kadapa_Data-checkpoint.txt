@@ -1,0 +1,5 @@
+</td>, <td>
+<div align="center" class="buttonsearch">
+<input class="button" onclick="window.close()" type="button" value="Close"/> <input class="button" onclick="gotoSearchForm();" type="submit" value="Search Again"/>
+</div>
+</td>]
