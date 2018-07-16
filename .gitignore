@@ -1,0 +1,7 @@
+/MFC
+/TutorialPoint
+*.pdf
+git_bat_cmd.bat
+/Data_files/SingeReinforcementNutralAxis.csv
+/Data_files/Pendulum_Data1.csv
+/Python_files/ResNet50_model.h5
