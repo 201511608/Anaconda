@@ -1,3 +1,3 @@
 git add .
-git commit -m "updated"
+git commit -m "Midas_Updated"
 git push origin master
